@@ -6,14 +6,13 @@
 ### _Practice code commit. Epicodus Class Project Week 1, Day 2
 
 ## Open Git
+enter practice coding commands, learn and teach yourself what the commands do, like arcade mode on Minecraft.
 
-
-
-_
 
 ##### _any bugs or code issues email @tresonna@gmail.com
 
-## _{HtML
+## _used 
+     {HtML
      CSS
      Javascript}_
 

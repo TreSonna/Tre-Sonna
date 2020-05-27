@@ -1,11 +1,9 @@
 # _Tre-Sonna_
 
-##_practice-code_
+## _practice-code_
 #### By _**{Tre Sonna}**_
 
 ###Practice code commit. Epicodus Class Project Week 1, Day 2
-
-_{Tre Sonna}_
 
 ## Open Git
 
@@ -13,7 +11,7 @@ _{Tre Sonna}_
 
 _
 
-#####_any bugs or code issues email @tresonna@gmail.com
+##### _any bugs or code issues email @tresonna@gmail.com
 
 ## _{HtML
      CSS

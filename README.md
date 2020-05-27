@@ -9,9 +9,9 @@
 enter practice coding commands, learn and teach yourself what the commands do, like arcade mode on Minecraft.
 
 
-##### _any bugs or code issues email @tresonna@gmail.com
+##### any bugs or code issues email @tresonna@gmail.com
 
-## _used 
+## used 
      {HtML
      CSS
      Javascript}_

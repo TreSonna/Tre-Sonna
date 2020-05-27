@@ -3,7 +3,7 @@
 ## _practice-code_
 #### By _**{Tre Sonna}**_
 
-###Practice code commit. Epicodus Class Project Week 1, Day 2
+### _Practice code commit. Epicodus Class Project Week 1, Day 2
 
 ## Open Git
 
